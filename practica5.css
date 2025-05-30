@@ -1,0 +1,91 @@
+/*practica5*/
+body{
+	color:white;
+}
+h1{
+	color:black;
+	text-align: center;
+}
+div{
+	text-align: center;
+	border-radius: 40px;
+}
+#cajaNegra{
+	background-color: black;
+	/*float: left;*/
+	clear: both;
+	width: 100%
+	border-radius: 40px;
+}
+#cajaNegra img{
+	 width: 250px;
+      height: 250px;
+      border-radius: 30px;
+}
+#cajaRoja{
+	background-color: red;
+	/*float: right;*/
+	width: 200px;
+	height: 400px;
+	padding: 30px;
+	text-align: center;
+	border-radius: 40px;
+}
+#cajaRoja img{
+	 width: 200px;
+      height: 200px;
+      border-radius: 30px;
+}
+#cajaAzul{
+	background-color: blue;
+	/*float: right;*/
+	width: 200px;
+	height: 400px;
+	padding: 30px;
+	text-align: center;
+	border-radius: 40px;
+}
+#cajaAzul img{
+	 width: 200px;
+      height: 200px;
+      border-radius: 30px;
+}
+#cajaAmarilla{
+	background-color: yellow;
+	/*float: right;*/
+	width: 200px;
+	height: 400px;
+	padding: 30px;
+	text-align: center;
+	border-radius: 40px;
+}
+#cajaAmarilla img{
+	 width: 200px;
+      height: 200px;
+      border-radius: 30px;
+}
+#cajaMorada{
+	background-color: purple;
+	/*float: right;*/
+	width: 200px;
+	height: 400px;
+	padding: 30px;
+	text-align: center;
+	border-radius: 40px;
+}
+#cajaMorada img{
+	 width: 200px;
+      height: 200px;
+      border-radius: 30px;
+}
+#cajaVerde{
+	background-color: green;
+	/*float: right;*/
+	width: 100%
+	border-radius: 40px;
+}
+#cajaVerde img{
+	 width: 250px;
+      height: 250px;
+      border-radius: 30px;
+}
